@@ -17,7 +17,8 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
  
-**[Superhero-search-Project]** is a mobile web application to check a list of comics available of superheroes
+**[vet clinics database
+]** is a demo project to learn about sql
 
 
 ## 🛠 Built With <a name="built-with"></a>
